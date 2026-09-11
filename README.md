@@ -64,11 +64,3 @@ jupyter notebook AMAN.ipynb
 
 See `requirements.txt`.
 
-## 👥 Contributors
-
-- [Your name]
-- [Teammates' names]
-
-## 📄 License
-
-Add a license of your choice (e.g., MIT) if you want others to be able to reuse this project.
