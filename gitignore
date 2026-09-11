@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Large data files (uncomment if you don't want to push the dataset itself)
+# data/*.parquet
+
+# Colab-specific
+*.log
+
+# CatBoost auto-generated training logs
+catboost_info/
