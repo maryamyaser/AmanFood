@@ -86,19 +86,4 @@ streamlit run app.py
 
 See `requirements.txt`.
 
-## 👥 Contributors
 
-This project was developed through a specialized division of responsibilities across the machine learning lifecycle:
-
-| Team Member | Project Role | Engineering Scope & Core Responsibilities |
-|---|---|---|
-| Rowaida Amr Ali | Data Engineering & EDA Lead | Data schema audit, hygiene, and missing-value imputation. Feature engineering (cyclic temporal harmonic signals). Bivariate correlation, distribution skewness, and spatial variance analysis. |
-| Basmala El-Husseiny Ismail | Pipeline & Preprocessing Lead | Strict leak-free temporal splitting (Train vs Test). Scaler calibration via Robust & Standard scaling techniques. Categorical encoding and feature matrix alignment. Baseline model initialization and parameter setup. |
-| Mariam Yasser Arafat | Advanced ML & Neural Specialist | Training tree ensembles (Random Forest, Decision Trees). Gradient boosting tuning (CatBoost, XGBoost, LightGBM). Neural architecture design (MLPRegressor multi-layer perceptron). Regularization penalty calibration and parameter search. |
-| Abdelrahman Emad Ahmed | Evaluation & Benchmark Lead | Multi-model diagnostic evaluation matrix on real currency scales. Generalization gap analysis. Residual distribution analysis, bias-variance trade-offs, and error metrics. Ensemble model construction (VotingRegressor, StackingRegressor). |
-| Mohamed Abdullah Sabry | System Architecture & Deployment Lead | Streamlit dashboard development. Real-time model inference pipeline and single-row matrix alignment. Git architecture, model serialization (.pkl), and UI state logic. |
-
-
-## 📄 License
-
-Add a license of your choice (e.g., MIT) if you want others to be able to reuse this project.
