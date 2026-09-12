@@ -1,6 +1,7 @@
 # AmanFood – Food Price Prediction in Egypt 🇪🇬
 
 A machine learning project that predicts food commodity prices across Egypt's governorates, using features like location, commodity type, market, supply & demand levels, transport cost, inflation, and seasonality (including Ramadan effects).
+## live demo : https://amanfood-gaqv9orikgrmalfumkzyyp.streamlit.app/
 
 ## 📊 Project Overview
 
